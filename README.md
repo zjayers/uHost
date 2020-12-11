@@ -1,8 +1,7 @@
 # Uhost
-[![GitHub Release](https://img.shields.io/github/release/zjayers/uHost.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/uHost.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/uHost.svg?style=flat)](https://github.com/zjayers/uHost/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/uHost.svg?style=flat)](https://github.com/zjayers/uHost/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/uHost.svg?maxAge=25000)](https://github.com/zjayers/uHost/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/uHost/blob/master/LICENSEs)
 
 ## Description
 
